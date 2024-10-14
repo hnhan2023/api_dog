@@ -3,9 +3,6 @@
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Candidate's Approach](#candidates-approach)
-3. [Potential Improvements](#potential-improvements)
-4. [Useful Information](#useful-information)
-5. [How to Run the Project](#how-to-run-the-project)
 
 ## Project Overview
 
