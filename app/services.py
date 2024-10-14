@@ -1,11 +1,11 @@
 from http.client import HTTPException
 import os
 import requests
-from dog_api.app.models.image import Image
+from app.models.image import Image
 from sqlalchemy.orm import Session
 from fastapi import UploadFile, HTTPException
 from datetime import datetime
-from app.models import Breed
+from app.models.breed import Breed
 from app.utils import fetch_dog_breed_detail, fetch_dog_breeds
 from fastapi.responses import FileResponse
 from sqlalchemy.sql import func

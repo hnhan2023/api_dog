@@ -1,2 +1,3 @@
 from .database import Base, engine 
-from .models import Breed, Image
+from .models.breed import Breed
+from .models.image import Image
